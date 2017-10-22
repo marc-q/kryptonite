@@ -10,7 +10,7 @@ A way people could have secure passwords.
 
 **IMPORTANT** Make sure you create and use a custom encoding function in order to create secure password's.
 
-1. Run Kryptonite with the secret you want to remeber as the first argument.
+1. Run Kryptonite with the secret you want to remember as the first argument.
 
 **Example:**
 
