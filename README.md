@@ -3,7 +3,7 @@ A new way people could have secure passwords.
 
 ## How to generate Kryptons?
 
-**IMPORTANT** Make shure you create and use a custom encoding function in order to create secure password's.
+**IMPORTANT** Make sure you create and use a custom encoding function in order to create secure password's.
 
 ```
 $ ./kryptonite "Ta1K_uO7+github.com" 
