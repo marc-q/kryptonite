@@ -31,8 +31,6 @@ kry_hash (unsigned char *out,
           const char    *in)
 {
 	// Use SHA256
-	OpenSSL_add_all_digests ();
-	
 	const EVP_MD *md = EVP_sha256 ();
 	
 	if (!md)
